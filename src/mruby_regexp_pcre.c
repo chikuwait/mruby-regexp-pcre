@@ -5,7 +5,7 @@
 #include <mruby/data.h>
 #include <mruby/variable.h>
 
-#include <stdio.h>
+#include <printf.h>
 #include <string.h>
 #include <pcre.h>
 
